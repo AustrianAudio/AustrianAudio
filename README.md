@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/AustrianAudio/AustrianAudio/blob/main/AA_Signet_black_small.png" width="25%"/>
+  <a href="https://austrian.audio/">
+    <img src="https://github.com/AustrianAudio/AustrianAudio/blob/main/AA_Signet_black_small.png" width="25%"/>
+  </a>
   </br>Austrian Audio
 </h1>
 <p align="center">Making Passion Heard.</p>
